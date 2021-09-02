@@ -1,0 +1,14 @@
+{
+  "name": "javascript-assessment",
+  "version": "1.0.0",
+  "description": "js assessment",
+  "author": "Paul Pandian",
+  "license": "ISC",
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "express",
+    "server"
+  ]
+}
